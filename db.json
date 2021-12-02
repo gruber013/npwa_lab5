@@ -1,0 +1,81 @@
+{
+  "Hrana": [
+    {
+      "name": "Deserti",
+      "id": 1
+    },
+    {
+      "name": "Brza hrana",
+      "id": 2
+    },
+    { "name": "Juhe",
+      "id": 3
+    },
+    { "name": "Salate",
+      "id": 4
+    }
+  ],
+  "Deserti": [
+    {
+      "id": 1,
+      "name": "Ledeni vjetar",
+      "details": "Osvježavajući ljetni kolač sa voćem"
+    },
+    {
+      "id": 2,
+      "name": "Mačje oči",
+      "details": "Ukusni desert s bananom"
+    },
+    {
+      "id": 3,
+      "name": "Sacher torta",
+      "details": "Odlična austrijska čokoladna torta"
+    }
+  ],
+  "Brza hrana": [
+    {
+      "id": 1,
+      "name": "Hamburger",
+      "details": "100% goveđe meso"
+    },
+    {
+      "id": 2,
+      "name": "Cheeseburger",
+      "details": "100% goveđe meso sa sirom!"
+    },
+    {
+      "id": 3,
+      "name": "Piletina",
+      "details": "Piletina sa grilla u lepinji"
+    }
+  ],
+   "Juhe": [
+    {
+      "id": 1,
+      "name": "Rajčica",
+      "details": "Juha od domaćih rajčica"
+    },
+    {
+      "id": 2,
+      "name": "Gljive",
+      "details": "Juha od najboljih gljiva"
+    },
+    {
+      "id": 3,
+      "name": "Šparoge",
+      "details": "Juha od najboljih šparoga"
+    }
+  ],
+     "Salate": [
+    {
+      "id": 1,
+      "name": "Miješana",
+      "details": "Standarna, miješana salata s mix povrećem"
+    },
+    {
+      "id": 2,
+      "name": "Ceasar",
+      "details": "Ukusna salata s piletinom"
+    }
+  ]
+}
