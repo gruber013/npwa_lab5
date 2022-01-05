@@ -1,77 +1,77 @@
 {
 	"Hrana": [{
-			"name": "Deserti",
+			"product_name": "Deserti",
 			"id": 1
 		},
 		{
-			"name": "Brza hrana",
+			"product_name": "Brza hrana",
 			"id": 2
 		},
 		{
-			"name": "Juhe",
+			"product_name": "Juhe",
 			"id": 3
 		},
 		{
-			"name": "Salate",
+			"product_name": "Salate",
 			"id": 4
 		}
 	],
 	"Deserti": [{
 			"id": 1,
-			"name": "Ledeni vjetar",
+			"product_name": "Ledeni vjetar",
 			"details": "Osvježavajući ljetni kolač sa voćem"
 		},
 		{
 			"id": 2,
-			"name": "Mačje oči",
+			"product_name": "Mačje oči",
 			"details": "Ukusni desert s bananom"
 		},
 		{
 			"id": 3,
-			"name": "Sacher torta",
+			"product_name": "Sacher torta",
 			"details": "Odlična austrijska čokoladna torta"
 		}
 	],
 	"Brza": [{
 			"id": 1,
-			"name": "Hamburger",
+			"product_name": "Hamburger",
 			"details": "100% goveđe meso"
 		},
 		{
 			"id": 2,
-			"name": "Cheeseburger",
+			"product_name": "Cheeseburger",
 			"details": "100% goveđe meso sa sirom!"
 		},
 		{
 			"id": 3,
-			"name": "Piletina",
+			"product_name": "Piletina",
 			"details": "Piletina sa grilla u lepinji"
 		}
 	],
 	"Juhe": [{
 			"id": 1,
-			"name": "Rajčica",
+			"product_name": "Rajčica",
 			"details": "Juha od domaćih rajčica"
 		},
 		{
 			"id": 2,
-			"name": "Gljive",
+			"product_name": "Gljive",
 			"details": "Juha od najboljih gljiva"
 		},
 		{
 			"id": 3,
-			"name": "Šparoge",
+			"product_name": "Šparoge",
 			"details": "Juha od najboljih šparoga"
 		}
 	],
 	"Salate": [{
 			"id": 1,
-			"name": "Miješana",
+			"product_name": "Miješana",
 			"details": "Standarna, miješana salata s mix povrećem"
 		},
 		{
 			"id": 2,
-			"name": "Ceasar",
+			"product_name": "Ceasar",
 			"details": "Ukusna salata s piletinom"
 		}
 	]
