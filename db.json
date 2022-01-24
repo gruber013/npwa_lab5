@@ -17,60 +17,60 @@
 		}
 	],
 	"Deserti": [{
-			"id": 1,
+			"id": 5,
 			"product_name": "Ledeni vjetar",
 			"details": "Osvježavajući ljetni kolač sa voćem"
 		},
 		{
-			"id": 2,
+			"id": 6,
 			"product_name": "Mačje oči",
 			"details": "Ukusni desert s bananom"
 		},
 		{
-			"id": 3,
+			"id": 7,
 			"product_name": "Sacher torta",
 			"details": "Odlična austrijska čokoladna torta"
 		}
 	],
 	"Brza": [{
-			"id": 1,
+			"id": 8,
 			"product_name": "Hamburger",
 			"details": "100% goveđe meso"
 		},
 		{
-			"id": 2,
+			"id": 9,
 			"product_name": "Cheeseburger",
 			"details": "100% goveđe meso sa sirom!"
 		},
 		{
-			"id": 3,
+			"id": 10,
 			"product_name": "Piletina",
 			"details": "Piletina sa grilla u lepinji"
 		}
 	],
 	"Juhe": [{
-			"id": 1,
+			"id": 11,
 			"product_name": "Rajčica",
 			"details": "Juha od domaćih rajčica"
 		},
 		{
-			"id": 2,
+			"id": 12,
 			"product_name": "Gljive",
 			"details": "Juha od najboljih gljiva"
 		},
 		{
-			"id": 3,
+			"id": 13,
 			"product_name": "Šparoge",
 			"details": "Juha od najboljih šparoga"
 		}
 	],
 	"Salate": [{
-			"id": 1,
+			"id": 14,
 			"product_name": "Miješana",
 			"details": "Standarna, miješana salata s mix povrećem"
 		},
 		{
-			"id": 2,
+			"id": 15,
 			"product_name": "Ceasar",
 			"details": "Ukusna salata s piletinom"
 		}
